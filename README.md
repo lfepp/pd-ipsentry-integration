@@ -1,6 +1,6 @@
-# WIP: PagerDuty - IPSentry Integration
+# PagerDuty - IPSentry Integration
 
-`pd-ipsentry-integration` is an applet that captures an alert output from IPSentry and delivers the alert to PagerDuty.
+The PagerDuty - IPSentry Integration is an applet that captures an alert output from IPSentry and delivers the alert to PagerDuty.
 
 ## Dependencies
 
